@@ -1,3 +1,5 @@
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/3f7bae01-8f85-4549-a1e6-6246cbeed486" />
+
 # Laufer Retreat Talk 2025
 
 These are the references for the slides for my talk at the Laufer Center Retreat 04-22-25. There are also some links to additional resources for interested audience members. I try to include code or link to existing repositories for the slides I show, but as I noted in the talk some of the content is still private and will be released sometime in the next month or so. If you're interested and don't see those updates, feel free to reach out to me at anthony.chesebro@stonybrook.edu.
@@ -8,3 +10,4 @@ These are the references for the slides for my talk at the Laufer Center Retreat
 - **Slide 5:** Two citations:
   - Antal et al. Achieving Occam’s razor: Deep learning for optimal model reduction. PLoS Comput Biol. 2024 Jul 18;20(7):e1012283. https://doi.org/10.1371/journal.pcbi.1012283
   - van Nieuwenhuizen et al. Ketosis regulates K+ ion channels, strengthening brain-wide signaling disrupted by age. Imaging Neuroscience 2024; 2 1–14. doi: https://doi.org/10.1162/imag_a_00163.
+- **Slide 6:** Simulation done by me, but adapted from 
