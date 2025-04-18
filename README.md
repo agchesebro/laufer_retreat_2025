@@ -11,7 +11,7 @@ These are the references for the slides for my talk at the Laufer Center Retreat
   - Antal et al. Achieving Occam’s razor: Deep learning for optimal model reduction. PLoS Comput Biol. 2024 Jul 18;20(7):e1012283. https://doi.org/10.1371/journal.pcbi.1012283
   - van Nieuwenhuizen et al. Ketosis regulates K+ ion channels, strengthening brain-wide signaling disrupted by age. Imaging Neuroscience 2024; 2 1–14. doi: https://doi.org/10.1162/imag_a_00163.
 - **Slide 7:** Simulation done by me, but adapted from Chen L, Campbell SA. Exact mean-field models for spiking neural networks with adaptation. J Comput Neurosci. 2022 Nov;50(4):445-469. doi: 10.1007/s10827-022-00825-9. Second image (sparsity in the brain) from upcoming publication.
-- **Slide 8:** For more info on fitting UDEs in the Lorenz system, check out [Automatically Discovering Missing Physics.](https://docs.sciml.ai/Overview/stable/showcase/missing_physics/)
+- **Slide 8:** For more info on fitting UDEs in the Lotka-Volterra system, check out [Automatically Discovering Missing Physics.](https://docs.sciml.ai/Overview/stable/showcase/missing_physics/)
 - **Slide 10:** For more info on the Prediction Error Method in optimization, see [the SciML documentation](https://docs.sciml.ai/SciMLSensitivity/dev/examples/ode/prediction_error_method/).
 
 All remaining graphics are from our upcoming SciML paper. Feel free to reach out if you'd like more information as I'll have a public version - with code demo! - available soon.
