@@ -14,4 +14,4 @@ These are the references for the slides for my talk at the Laufer Center Retreat
 - **Slide 3:** For more info on fitting UDEs in the Lotka-Volterra system, check out [Automatically Discovering Missing Physics.](https://docs.sciml.ai/Overview/stable/showcase/missing_physics/)
 - **Slide 5:** For more info on the Prediction Error Method in optimization, see [the SciML documentation](https://docs.sciml.ai/SciMLSensitivity/dev/examples/ode/prediction_error_method/).
 
-All remaining graphics are from our upcoming SciML paper. Feel free to reach out if you'd like more information as I'll have a public version - with code demo! - available soon.
+All remaining graphics are from our upcoming SciML paper. Feel free to reach out if you'd like more information as I'll have a public version -- with code demo! -- available soon.
